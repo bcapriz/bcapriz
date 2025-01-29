@@ -6,7 +6,7 @@ I am a software development student, currently pursuing a technical degree at th
 <img alt="Night Coding" align="right" widht=30px src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 - 🌱 I’m currently learning ...
   - Java
-  - Typescript
+  - Django
 - 👯 I’m looking forward to collaborate on open source projects. 
 - ✔ Ask me about anything, I am happy to help😉<br>
 - Outside tech, 🏋️‍♂️ I enjoy going to the gym, 🎮 playing video games, 🎵 listening to music, and 🌍 exploring new places in cities and their surroundings.
